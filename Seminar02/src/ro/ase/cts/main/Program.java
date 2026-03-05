@@ -10,16 +10,19 @@ import ro.ase.cts.clase.loader.IAplicantiLoader;
 
 public class Program {
 
-	public static void main(String[] args) {
-		List<Aplicant> listaAngajati;
-		AplicantiLoader loader = new AngajatiLoader();
-		try {
-			listaAngajati = loader.load("angajati.txt");
-			for(Aplicant aplicant:listaAngajati)
-				System.out.println(aplicant.toString());
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
+    public static void main(String[] args) {
+        List<Aplicant> listaAngajati;
+        AplicantiLoader loader = new AngajatiLoader();
+        try {
+            listaAngajati = loader.load("angajati.txt");
+            for (Aplicant angajat : listaAngajati) {
+                System.out.println(angajat.toString());
+                angajat.afisareFinantare();
+                angajat.afisareStatut();
+            }
+        } catch (FileNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
 }

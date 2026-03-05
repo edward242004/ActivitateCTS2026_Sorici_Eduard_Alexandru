@@ -15,14 +15,14 @@ public abstract class AplicantiLoader {
             int varsta = input.nextInt();
             int punctaj = input.nextInt();
             int nr = input.nextInt();
-            String[] vect = new String[5];
+            String[] vect = new String[nr];
             for (int i = 0; i < nr; i++)
                 vect[i] = input.next();
             aplicant.setNume(nume);
             aplicant.setPrenume(prenume);
             aplicant.setPunctaj(punctaj);
             aplicant.setVarsta(varsta);
-            aplicant.setNr_proiecte(nr,vect);
+            aplicant.setNrProiecte(nr,vect);
         }
 
 }
