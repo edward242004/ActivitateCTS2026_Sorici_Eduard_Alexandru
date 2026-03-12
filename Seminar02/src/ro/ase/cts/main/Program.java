@@ -4,9 +4,8 @@ import java.io.FileNotFoundException;
 import java.util.List;
 
 import ro.ase.cts.clase.Aplicant;
-import ro.ase.cts.clase.loader.AngajatiLoader;
-import ro.ase.cts.clase.loader.AplicantiLoader;
-import ro.ase.cts.clase.loader.IAplicantiLoader;
+import ro.ase.cts.loader.AngajatiLoader;
+import ro.ase.cts.loader.AplicantiLoader;
 
 public class Program {
 

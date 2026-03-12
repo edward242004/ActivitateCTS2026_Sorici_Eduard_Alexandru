@@ -1,4 +1,4 @@
-package ro.ase.cts.clase.loader;
+package ro.ase.cts.loader;
 
 import ro.ase.cts.clase.Angajat;
 import ro.ase.cts.clase.Aplicant;

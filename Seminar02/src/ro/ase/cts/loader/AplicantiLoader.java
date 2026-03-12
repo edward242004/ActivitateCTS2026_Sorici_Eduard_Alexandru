@@ -1,8 +1,7 @@
-package ro.ase.cts.clase.loader;
+package ro.ase.cts.loader;
 
 import ro.ase.cts.clase.Aplicant;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Scanner;
