@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/STB/STB.iml" filepath="$PROJECT_DIR$/STB/STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
