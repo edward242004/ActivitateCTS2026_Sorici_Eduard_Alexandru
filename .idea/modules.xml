@@ -9,7 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1_1096.iml" filepath="$PROJECT_DIR$/Seminar1_1096.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton02/Singleton02.iml" filepath="$PROJECT_DIR$/Singleton02/Singleton02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton03/Singleton03.iml" filepath="$PROJECT_DIR$/Singleton03/Singleton03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
     </modules>
   </component>

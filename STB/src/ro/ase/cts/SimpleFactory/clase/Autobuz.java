@@ -1,6 +1,6 @@
 package ro.ase.cts.SimpleFactory.clase;
 
-public class Autobuz extends MijlocTransport{
+public class Autobuz extends MijlocTransport {
 
 
     public Autobuz(String marca, int linia) {
