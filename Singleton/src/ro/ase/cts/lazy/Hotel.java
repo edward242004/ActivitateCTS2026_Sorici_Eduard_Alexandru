@@ -25,7 +25,7 @@ public class Hotel {
 
     private static Hotel instanta = null;
 
-    public Hotel(String denumireHotel, int numarCamere, int numarAngajati) {
+    private Hotel(String denumireHotel, int numarCamere, int numarAngajati) {
         this.denumireHotel = denumireHotel;
         this.numarCamere = numarCamere;
         this.numarAngajati = numarAngajati;
