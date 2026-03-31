@@ -19,7 +19,8 @@ public class RegistruSpital {
 
     private static RegistruSpital instanta = null;
 
-    public RegistruSpital(String numeSectie, int numarSaloane, int numarPacienti) {
+
+    private RegistruSpital(String numeSectie, int numarSaloane, int numarPacienti) {
         this.numeSectie = numeSectie;
         this.numarSaloane = numarSaloane;
         this.numarPacienti = numarPacienti;

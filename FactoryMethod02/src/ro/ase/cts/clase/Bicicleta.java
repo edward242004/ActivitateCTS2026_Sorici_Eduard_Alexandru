@@ -1,17 +1,12 @@
 package ro.ase.cts.clase;
 
-public class Bicicleta implements MijlocTransport {
+public abstract class Bicicleta implements MijlocTransport {
     private double costTransport;
     private String marca;
 
     public Bicicleta(String marca, double costTransport) {
         this.marca = marca;
         this.costTransport = costTransport;
-    }
-
-    @Override
-    public void livreazaComanda() {
-
     }
 
     @Override

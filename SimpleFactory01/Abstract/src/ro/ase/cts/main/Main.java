@@ -1,6 +1,7 @@
 package ro.ase.cts.main;
 
 import ro.ase.cts.clase.Bautura;
+import ro.ase.cts.clase.Ceai;
 import ro.ase.cts.factory.BauturaFactory;
 import ro.ase.cts.factory.BauturaType;
 
@@ -12,7 +13,6 @@ public class Main {
         Bautura ciocolataCalda = factory.getBautura("LaFesta",500,15,BauturaType.CiocolataCalda);
         cafea1.afisareDescriere();
         cafea1.preparareBautura();
-
         ceai1.afisareDescriere();
         ceai1.preparareBautura();
 

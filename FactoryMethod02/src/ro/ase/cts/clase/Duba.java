@@ -1,19 +1,15 @@
 package ro.ase.cts.clase;
 
-public class Duba implements MijlocTransport {
+public abstract class Duba implements MijlocTransport {
     private double costTransport;
     private String marca;
     private double consum;
 
-    @Override
-    public void livreazaComanda() {
-
-    }
 
     public Duba(double costTransport, String marca, double consum) {
         this.costTransport = costTransport;
         this.marca = marca;
-        this.consum=consum;
+        this.consum = consum;
     }
 
     @Override
