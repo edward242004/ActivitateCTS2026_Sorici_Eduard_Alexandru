@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Activitate.iml" filepath="$PROJECT_DIR$/Activitate/Activitate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FactoryMethod02/FactoryMethod02.iml" filepath="$PROJECT_DIR$/FactoryMethod02/FactoryMethod02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleFactory01/Interfata/Interfata.iml" filepath="$PROJECT_DIR$/SimpleFactory01/Interfata/Interfata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" filepath="$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prototype02/Prototype02.iml" filepath="$PROJECT_DIR$/Prototype02/Prototype02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prototype03/Prototype03.iml" filepath="$PROJECT_DIR$/Prototype03/Prototype03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Prototype02/Prototype02.iml" filepath="$PROJECT_DIR$/Activitate/Prototype02/Prototype02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Prototype03/Prototype03.iml" filepath="$PROJECT_DIR$/Activitate/Prototype03/Prototype03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/STB/STB.iml" filepath="$PROJECT_DIR$/STB/STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1_1096.iml" filepath="$PROJECT_DIR$/Seminar1_1096.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleFactory01/SimpleFactory01.iml" filepath="$PROJECT_DIR$/SimpleFactory01/SimpleFactory01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory01/SimpleFactory01.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory01/SimpleFactory01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Singleton02/Singleton02.iml" filepath="$PROJECT_DIR$/Singleton02/Singleton02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Singleton03/Singleton03.iml" filepath="$PROJECT_DIR$/Singleton03/Singleton03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Singleton04/Singleton04.iml" filepath="$PROJECT_DIR$/Singleton04/Singleton04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Singleton02/Singleton02.iml" filepath="$PROJECT_DIR$/Activitate/Singleton02/Singleton02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Singleton03/Singleton03.iml" filepath="$PROJECT_DIR$/Activitate/Singleton03/Singleton03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Singleton04/Singleton04.iml" filepath="$PROJECT_DIR$/Activitate/Singleton04/Singleton04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
     </modules>
   </component>
