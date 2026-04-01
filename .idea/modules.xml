@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Activitate/Singleton02/Singleton02.iml" filepath="$PROJECT_DIR$/Activitate/Singleton02/Singleton02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/Singleton03/Singleton03.iml" filepath="$PROJECT_DIR$/Activitate/Singleton03/Singleton03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/Singleton04/Singleton04.iml" filepath="$PROJECT_DIR$/Activitate/Singleton04/Singleton04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/SingletonBuilder/SingletonBuilder.iml" filepath="$PROJECT_DIR$/Activitate/SingletonBuilder/SingletonBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
     </modules>
   </component>
