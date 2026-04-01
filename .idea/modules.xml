@@ -3,12 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Activitate/Activitate.iml" filepath="$PROJECT_DIR$/Activitate/Activitate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Builder01/Builder01.iml" filepath="$PROJECT_DIR$/Activitate/Builder01/Builder01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Builder02/Builder02.iml" filepath="$PROJECT_DIR$/Activitate/Builder02/Builder02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" filepath="$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/Prototype02/Prototype02.iml" filepath="$PROJECT_DIR$/Activitate/Prototype02/Prototype02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/Prototype03/Prototype03.iml" filepath="$PROJECT_DIR$/Activitate/Prototype03/Prototype03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Prototype04/Prototype04.iml" filepath="$PROJECT_DIR$/Activitate/Prototype04/Prototype04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/STB/STB.iml" filepath="$PROJECT_DIR$/STB/STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
