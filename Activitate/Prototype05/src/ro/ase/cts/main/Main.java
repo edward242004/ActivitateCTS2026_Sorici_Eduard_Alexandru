@@ -36,6 +36,5 @@ public class Main {
         conexiunea2.setIp("12.234.120:2123123");
         conexiunea1.afisareDescriere();
         conexiunea2.afisareDescriere();
-
     }
 }
