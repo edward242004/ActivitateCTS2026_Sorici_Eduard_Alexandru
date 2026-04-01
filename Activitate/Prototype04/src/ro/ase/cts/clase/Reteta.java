@@ -1,5 +1,6 @@
 package ro.ase.cts.clase;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Reteta implements PrototypeReteta {
@@ -37,8 +38,8 @@ public class Reteta implements PrototypeReteta {
     @Override
     public PrototypeReteta copiaza() {
         Reteta reteta = new Reteta();
-        reteta.ingrediente=this.ingrediente;
-        reteta.cantitate=this.cantitate;
+        reteta.ingrediente=new ArrayList<>(this.ingrediente);
+        reteta.cantitate=new ArrayList<>(this.cantitate);
         return reteta;
     }
 }
