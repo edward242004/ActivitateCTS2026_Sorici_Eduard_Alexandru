@@ -23,7 +23,5 @@ public class Main {
         System.out.println(filtru1);
         System.out.println(filtru2);
         System.out.println(filtru3);
-
-
     }
 }

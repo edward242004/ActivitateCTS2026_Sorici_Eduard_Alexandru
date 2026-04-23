@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Activitate/Activitate.iml" filepath="$PROJECT_DIR$/Activitate/Activitate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital02/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Spital02/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/Builder01/Builder01.iml" filepath="$PROJECT_DIR$/Activitate/Builder01/Builder01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/Builder02/Builder02.iml" filepath="$PROJECT_DIR$/Activitate/Builder02/Builder02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calitate si testare Software.iml" filepath="$PROJECT_DIR$/Calitate si testare Software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital02/Facade/Facade.iml" filepath="$PROJECT_DIR$/Spital02/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" filepath="$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" />
@@ -18,7 +21,6 @@
       <module fileurl="file://$PROJECT_DIR$/STB/STB.iml" filepath="$PROJECT_DIR$/STB/STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar1_1096.iml" filepath="$PROJECT_DIR$/Seminar1_1096.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory01/SimpleFactory01.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory01/SimpleFactory01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
@@ -27,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/Activitate/Singleton04/Singleton04.iml" filepath="$PROJECT_DIR$/Activitate/Singleton04/Singleton04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/SingletonBuilder/SingletonBuilder.iml" filepath="$PROJECT_DIR$/Activitate/SingletonBuilder/SingletonBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital02/Spital02.iml" filepath="$PROJECT_DIR$/Spital02/Spital02.iml" />
     </modules>
   </component>
 </project>
