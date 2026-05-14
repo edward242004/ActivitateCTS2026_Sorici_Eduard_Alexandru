@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/Activitate/SingletonBuilder/SingletonBuilder.iml" filepath="$PROJECT_DIR$/Activitate/SingletonBuilder/SingletonBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital02/Spital02.iml" filepath="$PROJECT_DIR$/Spital02/Spital02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTesting/UnitTesting.iml" filepath="$PROJECT_DIR$/UnitTesting/UnitTesting.iml" />
     </modules>
   </component>
 </project>
