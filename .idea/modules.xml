@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Restaurant/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" filepath="$PROJECT_DIR$/Activitate/FactoryMethod02/FactoryMethod02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Flyweight01/Flyweight01.iml" filepath="$PROJECT_DIR$/Activitate/Flyweight01/Flyweight01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" filepath="$PROJECT_DIR$/Activitate/SimpleFactory01/Interfata/Interfata.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Restaurant/Prototype/Prototype.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Activitate/Prototype05/Prototype05.iml" filepath="$PROJECT_DIR$/Activitate/Prototype05/Prototype05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate/Prototype06/Prototype06.iml" filepath="$PROJECT_DIR$/Activitate/Prototype06/Prototype06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitate/Proxy01/Proxy01.iml" filepath="$PROJECT_DIR$/Activitate/Proxy01/Proxy01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/STB/STB.iml" filepath="$PROJECT_DIR$/STB/STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
